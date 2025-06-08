@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>biletstats</name>
+    <displayName><![CDATA[Statystyki sprzedaży bilet&oacute;w]]></displayName>
+    <version><![CDATA[1.0.6]]></version>
+    <description><![CDATA[Wyświetla statystyki sprzedaży dla produktu-biletu o ID 78, liczone od określonej daty, oraz sortowalną listę zam&oacute;wień.]]></description>
+    <author><![CDATA[BESTLAB Ernest]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>
